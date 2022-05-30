@@ -1,0 +1,45 @@
+{
+    "0": {
+        "style": "filled",
+        "shape": "circle",
+        "fixedsize": "true",
+        "height": "5",
+        "fontsize": "100",
+        "penwidth": "5"
+    },
+    "1": {
+        "style": "filled",
+        "shape": "square",
+        "fixedsize": "true",
+        "height": "3",
+        "width": "3",
+        "fontsize": "45",
+        "penwidth": "5"
+    },
+    "2": {
+        "style": "filled",
+        "shape": "hexagon",
+        "fixedsize": "true",
+        "height": "2.5",
+        "width": "3",
+        "fontsize": "45",
+        "penwidth": "5"
+    },
+    "3": {
+        "style": "filled",
+        "shape": "octagon",
+        "fixedsize": "true",
+        "height": "1.5",
+        "width": "1.5",
+        "fontsize": "30",
+        "penwidth": "5"
+    },
+    "4": {
+        "style": "filled",
+        "shape": "circle",
+        "fixedsize": "true",
+        "height": "1",
+        "fontsize": "23",
+        "penwidth": "5"
+    }
+}
